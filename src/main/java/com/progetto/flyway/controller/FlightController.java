@@ -17,7 +17,10 @@ import java.time.LocalTime;
 import java.util.List;
 import java.util.Optional;
 
-
+/**
+ * Questa classe si occupa di gestire tutti i dati che riguardano i voli.
+ *
+ */
 //controller per la gestione dei voli
 @Controller
 @RequestMapping("/flights")
